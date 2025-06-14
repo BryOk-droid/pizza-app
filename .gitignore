@@ -1,0 +1,6 @@
+__pycache__/
+pipenv.lock
+*.pyc
+.env
+migrations/
+instance/
